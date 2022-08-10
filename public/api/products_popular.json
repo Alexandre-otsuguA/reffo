@@ -1,0 +1,128 @@
+[
+  {
+    "id": 0,
+    "name": "Smartphone Xiaomi Redmi Note 10S 6GB RAM 128GB Câmera Quádrupla",
+    "slug": "smartphone-xiaomi-redmi-note-10s-6gb-ram-128gb-android",
+    "description": "Lorem ipsum dolor sit amet",
+    "category": "celulares",
+    "price": 1313.31,
+    "min_price": 1313.31,
+    "max_price": 1613.31,
+    "unit": "",
+    "gallery": [
+      {
+        "id": 0,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/3b/b/-709050601.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/3b/b/-709050601.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/13/b/-709050816.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/13/b/-709050816.jpg"
+      }
+    ],
+    "tags": [{
+      "id": 0,
+      "name": "Celular"
+    }],
+    "variations": [
+      {
+        "id": 0,
+        "name": "Modelo",
+        "options": [
+          {
+            "id": 0,
+            "name": "128GB",
+            "price": 1313.31
+          },
+          {
+            "id": 1,
+            "name": "256GB",
+            "price": 1613.31
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Smartphone Apple iPhone 13 128GB Câmera Dupla",
+    "slug": "smartphone-apple-iphone-13-128gb-ios",
+    "description": "Lorem ipsum dolor sit amet",
+    "category": "celulares",
+    "price": 5207,
+    "unit": "",
+    "gallery": [
+      {
+        "id": 0,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/17/34/-747048218.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/17/34/-747048218.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/8/34/-747048578.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/8/34/-747048578.jpg"
+      }
+    ],
+    "tags": [{
+      "id": 0,
+      "name": "Celular"
+    },{
+      "id": 1,
+      "name": "Iphone"
+    }],
+    "variations": []
+  },
+  {
+    "id": 2,
+    "name": "Smartphone Samsung Galaxy M52 5G 128GB Câmera Tripla",
+    "slug": "smartphone-samsung-galaxy-m52-5g-128gb-android-camera-tripla",
+    "description": "Lorem ipsum dolor sit amet",
+    "category": "celulares",
+    "price": 1619,
+    "unit": "",
+    "gallery": [
+      {
+        "id": 0,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/3/17/-38403078.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/3/17/-38403078.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/25/31/-38397966.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/25/31/-38397966.jpg"
+      }
+    ],
+    "tags": [{
+      "id": 0,
+      "name": "Celular"
+    }],
+    "variations": []
+  },
+  {
+    "id": 3,
+    "name": "Smartphone Samsung Galaxy S21 5G SM-G991B 128GB Câmera Tripla",
+    "slug": "smartphone-samsung-galaxy-s21-5g-128gb-android-camera-tripla",
+    "description": "Lorem ipsum dolor sit amet",
+    "category": "celulares",
+    "price": 2899,
+    "unit": "",
+    "gallery": [
+      {
+        "id": 0,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/2a/32/-731222761.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/2a/32/-731222761.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/16/32/-731211118.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/16/32/-731211118.jpg"
+      }
+    ],
+    "tags": [{
+      "id": 0,
+      "name": "Celular"
+    }],
+    "variations": []
+  }
+]

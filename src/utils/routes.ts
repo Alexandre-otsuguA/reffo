@@ -1,0 +1,17 @@
+export const ROUTES = {
+  HOME: '/',
+  PRODUCT: `/products`,
+  TERMS: '/terms',
+  PRIVACY: '/privacy',
+  FORGET_PASSWORD: '/forget-password',
+  CHANGE_PASSWORD: '/my-account/change-password',
+  ACCOUNT: '/my-account/account-settings',
+  ACCOUNT_SETTING: '/my-account/account-settings',
+  LOGIN: '/signin',
+  SIGN_UP: '/signup',
+  SEARCH: '/search',
+  PRODUCTS: '/products',
+  CATEGORY: '/category',
+  WISHLIST: '/my-account/wishlist',
+  BUNDLE: '',
+};

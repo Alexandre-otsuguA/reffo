@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "id": 0,
+      "name": "Celulares",
+      "slug": "celulares",
+      "image": {
+        "id": 1,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/2a/32/-731222761.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/2a/32/-731222761.jpg"
+      },
+      "icon": "https://img.icons8.com/color/344/smartphone.png"
+    },
+    {
+      "id": 1,
+      "name": "IPhones",
+      "slug": "iphones",
+      "image": {
+        "id": 1,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/22/15/-555412802.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/22/15/-555412802.jpg"
+      },
+      "icon": "https://img.icons8.com/stickers/344/iphone.png"
+    },
+    {
+      "id": 2,
+      "name": "Notebooks",
+      "slug": "notebooks",
+      "image": {
+        "id": 1,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/28/11/-653210992.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/28/11/-653210992.jpg"
+      },
+      "icon": "https://img.icons8.com/color/344/laptop--v1.png"
+    },
+    {
+      "id": 3,
+      "name": "TV e Eletrônicos",
+      "slug": "tv-e-eletronicos",
+      "image": {
+        "id": 1,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/f/12/1550354384.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/f/12/1550354384.jpg"
+      },
+      "icon": "https://img.icons8.com/color/344/tv.png"
+    },
+    {
+      "id": 4,
+      "name": "Games",
+      "slug": "games",
+      "image": {
+        "id": 1,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/2c/39/1020526530.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/2c/39/1020526530.jpg"
+      },
+      "icon": "https://img.icons8.com/external-flat-andi-nur-abdillah/344/external-Games-virtual-reality-(flat)-flat-andi-nur-abdillah.png"
+    },
+    {
+      "id": 5,
+      "name": "Eletroportáteis",
+      "slug": "eletroportateis",
+      "image": {
+        "id": 1,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/2c/35/124720857.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/2c/35/124720857.jpg"
+      },
+      "icon": "https://img.icons8.com/color/344/electric-stovetop.png"
+    },
+    {
+      "id": 6,
+      "name": "Eletrodomésticos",
+      "slug": "eletrodomesticos",
+      "image": {
+        "id": 1,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/27/39/1257988030.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/27/39/1257988030.jpg"
+      },
+      "icon": "https://img.icons8.com/external-icongeek26-flat-icongeek26/344/external-refrigerator-electrical-devices-icongeek26-flat-icongeek26.png"
+    }
+  ]
+}
