@@ -6,10 +6,7 @@ module.exports = withPWA({
   i18n,
   pwa: {
     dest: 'public',
-    disable: true,
     register: true,
-    scope: '/',
-    sw: 'sw.js',
     runtimeCaching,
   },
   typescript: {

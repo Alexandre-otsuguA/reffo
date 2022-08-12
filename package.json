@@ -31,7 +31,7 @@
     "lodash": "^4.17.21",
     "next": "^12.2.3",
     "next-i18next": "^8.9.0",
-    "next-pwa": "^5.5.5",
+    "next-pwa": "^5.4.0",
     "next-seo": "^4.28.1",
     "nprogress": "^0.2.0",
     "overlayscrollbars": "^1.13.1",
