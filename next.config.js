@@ -5,7 +5,6 @@ module.exports = withPWA({
   reactStrictMode: true,
   i18n,
   pwa: {
-    dest: 'public',
     register: true,
     runtimeCaching,
   },
