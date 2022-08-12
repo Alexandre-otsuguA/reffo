@@ -1,12 +1,13 @@
 {
+  "id": "/",
+  "scope": "/",
+  "start_url": "/",
   "name": "Reffo",
   "short_name": "Reffo",
   "theme_color": "#ffffff",
   "background_color": "#027DB2",
   "display": "fullscreen",
   "orientation": "portrait",
-  "scope": "/",
-  "start_url": "/",
   "icons": [
     {
       "src": "icons/manifest-icon-192.png",

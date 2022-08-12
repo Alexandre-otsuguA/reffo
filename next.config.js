@@ -5,8 +5,11 @@ module.exports = withPWA({
   reactStrictMode: true,
   i18n,
   pwa: {
-    disable: process.env.NODE_ENV === 'development',
     dest: 'public',
+    disable: true,
+    register: true,
+    scope: '/',
+    sw: 'sw.js',
     runtimeCaching,
   },
   typescript: {

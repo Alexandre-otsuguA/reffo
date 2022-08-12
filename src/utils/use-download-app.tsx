@@ -20,7 +20,7 @@ const useDownloadApp = () => {
     deferredPrompt = null;
     // Opcionalmente, enviar evento de analytics para indicar instalação com sucesso
     console.log('PWA was installed');
-    toast('APP instalado', { status: 'success' });
+    toast('Download finalizado.', { status: 'success' });
   });
 
   async function downloadApp() {
@@ -34,7 +34,7 @@ const useDownloadApp = () => {
       // Usamos o prompt e não podemos usar de novo; jogue fora
       deferredPrompt = null;
     } catch (error) {
-      toast('Desculpe, algo deu errado.', { status: 'error' });
+      toast('Desculpe, mas não pudemos concluir o download.', { status: 'error' });
     }
   }
 

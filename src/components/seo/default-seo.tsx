@@ -5,7 +5,7 @@ export const DefaultSeo = () => {
   return (
     <NextDefaultSeo
       title={siteSettings.name}
-      titleTemplate={`${siteSettings.name} | %s`}
+      titleTemplate={`${siteSettings.name} – %s`}
       defaultTitle={siteSettings.name}
       description={siteSettings.description}
       canonical="https://reffo.vercel.app/"
