@@ -5,7 +5,7 @@ export const siteSettings = {
   description: 'Lorem ipsum dolor set amed.',
   author: {
     name: 'Alexandre Augusto',
-    websiteUrl: 'https://github.com/Alexandre-otsuguA',
+    websiteUrl: 'https://github.com/',
     address: '',
   },
   logo: {

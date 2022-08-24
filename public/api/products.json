@@ -4,6 +4,7 @@
     "name": "Smartphone Xiaomi Redmi Note 10S 6GB RAM 128GB Câmera Quádrupla",
     "slug": "smartphone-xiaomi-redmi-note-10s-6gb-ram-128gb-android",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/celular/smartphone-xiaomi-redmi-note-10s-6gb-ram-128gb-android?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AZ8PFVctAYV7JQieoVir09lM4D3rgFWhK5kegIsYrlDADg-ofoZVkxoCzdkQAvD_BwE",
     "category": "celulares",
     "price": 1313.31,
     "min_price": 1313.31,
@@ -21,10 +22,12 @@
         "original": "https://i.zst.com.br/thumbs/12/13/b/-709050816.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Celular"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Celular"
+      }
+    ],
     "variations": [
       {
         "id": 0,
@@ -49,6 +52,7 @@
     "name": "Smartphone Apple iPhone 13 128GB Câmera Dupla",
     "slug": "smartphone-apple-iphone-13-128gb-ios",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/celular/pre-venda-smartphone-apple-iphone-13-128gb-ios?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AREtxhlPQwTdudokYJ0pozQu0oyuUY6Ahf9Jrqm8CRltYJ4kd_CLPBoC1voQAvD_BwE",
     "category": "celulares",
     "price": 5207,
     "unit": "",
@@ -64,13 +68,16 @@
         "original": "https://i.zst.com.br/thumbs/12/8/34/-747048578.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Celular"
-    },{
-      "id": 1,
-      "name": "Iphone"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Celular"
+      },
+      {
+        "id": 1,
+        "name": "Iphone"
+      }
+    ],
     "variations": []
   },
   {
@@ -78,6 +85,7 @@
     "name": "Smartphone Samsung Galaxy M52 5G 128GB Câmera Tripla",
     "slug": "smartphone-samsung-galaxy-m52-5g-128gb-android-camera-tripla",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/celular/smartphone-samsung-galaxy-m52-5g-128gb-android-camera-tripla?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0Aah1cAWwCobT3sfrcVog0FjS8oYoLrHLWRby3L6YZnzrJNmpig89GxoCer0QAvD_BwE",
     "category": "celulares",
     "price": 1619,
     "unit": "",
@@ -93,10 +101,12 @@
         "original": "https://i.zst.com.br/thumbs/12/25/31/-38397966.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Celular"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Celular"
+      }
+    ],
     "variations": []
   },
   {
@@ -104,6 +114,7 @@
     "name": "Smartphone Samsung Galaxy S21 5G SM-G991B 128GB Câmera Tripla",
     "slug": "smartphone-samsung-galaxy-s21-5g-128gb-android-camera-tripla",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/celular/smartphone-samsung-galaxy-s21-5g-128gb-android-camera-tripla?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AaLRoatQUqtLE73nhnVY6r-2NIZzvk1_-ObjLBkjtQJnA_7U355XGBoCS74QAvD_BwE",
     "category": "celulares",
     "price": 2899,
     "unit": "",
@@ -119,10 +130,12 @@
         "original": "https://i.zst.com.br/thumbs/12/16/32/-731211118.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Celular"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Celular"
+      }
+    ],
     "variations": []
   },
   {
@@ -130,6 +143,7 @@
     "name": "Smartphone Apple iPhone 11 64GB Câmera Dupla",
     "slug": "smartphone-apple-iphone-11-64gb-ios",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/celular/smartphone-apple-iphone-11-64gb-ios?resultorder=9&og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AYyc7ZiHlPCPP-mlylUW_fRPdZUL7Tc2z2pxCVb_pnCRSKUbzsOBDxoC2fcQAvD_BwE",
     "category": "iphones",
     "price": 3099,
     "unit": "",
@@ -145,10 +159,12 @@
         "original": "https://i.zst.com.br/thumbs/12/1f/15/929874933.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Iphone"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Iphone"
+      }
+    ],
     "variations": []
   },
   {
@@ -156,6 +172,7 @@
     "name": "Smartphone Apple iPhone 13 Pro Max 128GB Câmera Tripla",
     "slug": "smartphone-apple-iphone-13-pro-max-128gb-ios-camera-tripla",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/celular/smartphone-apple-iphone-13-pro-max-128gb-ios-camera-tripla?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AdD_F6-n4PHaPkRG3ZBXrlynGOzdlX6JOOBa7HbRWeD1TwYDoMHcfxoCgW8QAvD_BwE",
     "category": "iphones",
     "price": 7417,
     "unit": "",
@@ -171,10 +188,12 @@
         "original": "https://i.zst.com.br/thumbs/12/16/38/-14448464.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Iphone"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Iphone"
+      }
+    ],
     "variations": []
   },
   {
@@ -182,6 +201,7 @@
     "name": "Smartphone Apple iPhone 12 128GB Câmera Dupla",
     "slug": "smartphone-apple-iphone-12-128gb-ios",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/celular/smartphone-apple-iphone-12-128gb-ios?og=18000&og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AfRkoo9W0K6g7yu7cl0Rdhn-VECkYwelKVs2ahwzocqfiI0GuG0dRBoCvKEQAvD_BwE",
     "category": "iphones",
     "price": 4399,
     "unit": "",
@@ -197,10 +217,12 @@
         "original": "https://i.zst.com.br/thumbs/12/8/17/1297612682.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Iphone"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Iphone"
+      }
+    ],
     "variations": []
   },
   {
@@ -208,6 +230,7 @@
     "name": "Smartphone Apple iPhone XR 64GB 12.0 MP",
     "slug": "smartphone-apple-iphone-xr-64gb-4g",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/busca/iphone+xr+64gb?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AX85NsnfHBclPif_FpYHGveySW4VVK65DKhYguYEa8Xw8laFfkP68RoCQr0QAvD_BwE",
     "category": "iphones",
     "price": 3699,
     "unit": "",
@@ -223,10 +246,12 @@
         "original": "https://i.zst.com.br/thumbs/12/13/b/665050249.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Iphone"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Iphone"
+      }
+    ],
     "variations": []
   },
   {
@@ -234,6 +259,7 @@
     "name": "Macbook Apple Air A2337 M1 13,3 8GB SSD 256 GB Mac OS Leitor Biométrico",
     "slug": "macbook-apple-air-m1-13-3-8gb-ssd-256-gb-tela-de-retina-mac-os-wi-fi",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/lead?oid=587437138&sortorder=-1&index=&pagesize=-1&channel=&og=19221&pla=2022-07-26T09:11:04.984520&og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AfH-Cw6I_H_SWQ1gDXOm9stdZXWmGkrsFzHctR474Ky3ol0Zg69SRRoCm-EQAvD_BwE",
     "category": "notebooks",
     "price": 6790,
     "unit": "",
@@ -249,13 +275,16 @@
         "original": "https://i.zst.com.br/thumbs/12/13/12/1278530627.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Notebook"
-    },{
-      "id": 1,
-      "name": "Apple"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Notebook"
+      },
+      {
+        "id": 1,
+        "name": "Apple"
+      }
+    ],
     "variations": []
   },
   {
@@ -263,6 +292,7 @@
     "name": "Notebook Samsung Book NP550XDA-KH2BR Intel Core i5 1135G7 15,6 8GB SSD 256 GB",
     "slug": "notebook-samsung-book-np550xda-kh2br-intel-core-i5-1135g7-15-6-8gb-ssd-256-gb-emmc-8-windows-11",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/notebook/notebook-samsung-book-np550xda-kh2br-intel-core-i5-1135g7-15-6-8gb-ssd-256-gb-emmc-8-windows-11?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0Ae2EElXg3ql6MYcVVMHxMOYNi-N4m8py5ZacV3iIfIfJWj9KoK83MBoC5kgQAvD_BwE",
     "category": "notebooks",
     "price": 3229,
     "unit": "",
@@ -278,10 +308,12 @@
         "original": "https://i.zst.com.br/thumbs/12/2c/10/-422352961.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Notebook"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Notebook"
+      }
+    ],
     "variations": []
   },
   {
@@ -289,6 +321,7 @@
     "name": "Notebook Gamer Lenovo IdeaPad 3i 82CGS00100 Intel Core i5 10300H 15,6 8GB SSD 256 GB Linux",
     "slug": "notebook-gamer-dell-ideapad-3i-82cgs00100-intel-core-i5-10300h-15-6-8gb-ssd-256-gb",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/notebook/notebook-gamer-dell-ideapad-3i-82cgs00100-intel-core-i5-10300h-15-6-8gb-ssd-256-gb",
     "category": "notebooks",
     "price": 3689,
     "unit": "",
@@ -304,10 +337,12 @@
         "original": "https://i.zst.com.br/thumbs/12/10/38/1671811295.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Notebook"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Notebook"
+      }
+    ],
     "variations": []
   },
   {
@@ -315,6 +350,7 @@
     "name": "Notebook Gamer Acer Nitro 5 AN515-55-58UJ Intel Core i5 10300H 15,6 8GB HD 1 TB SSD 256 GB",
     "slug": "notebook-gamer-acer-nitro-5-an515-55-58uj-intel-core-i5-10210u-15-6-8gb-hd-1-tb-ssd-256-gb",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/notebook/notebook-gamer-acer-nitro-5-an515-55-58uj-intel-core-i5-10210u-15-6-8gb-hd-1-tb-ssd-256-gb",
     "category": "notebooks",
     "price": 4399,
     "unit": "",
@@ -330,10 +366,12 @@
         "original": "https://i.zst.com.br/thumbs/12/0/3a/-539406619.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Notebook"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Notebook"
+      }
+    ],
     "variations": []
   },
   {
@@ -341,6 +379,7 @@
     "name": "Smart TV LED 43 Samsung Crystal 4K HDR UN43AU7700GXZD",
     "slug": "smart-tv-led-43-samsung-crystal-4k-hdr-43au7700",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/tv/smart-tv-led-43-samsung-crystal-4k-hdr-43au7700?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0Ad1JqSAqgtePogg-XxwObSQ9efN1fpRlfcly2Bjfw9OtIIKVTQPzfBoCUC8QAvD_BwE",
     "category": "tv-e-eletronicos",
     "price": 2199,
     "unit": "",
@@ -356,10 +395,12 @@
         "original": "https://i.zst.com.br/thumbs/12/10/16/1553974138.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Smart TV"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Smart TV"
+      }
+    ],
     "variations": []
   },
   {
@@ -367,6 +408,7 @@
     "name": "Smart TV LED 50 LG ThinQ AI 4K HDR 50UP7750PSB",
     "slug": "smart-tv-led-50-lg-thinq-ai-4k-hdr-50up7750psb",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/tv/smart-tv-led-50-lg-thinq-ai-4k-hdr-50up7750psb?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AWX7zKNLvqSISh3ahUTNA4aeYY2zxRKN8tVuqpaACU52f_RL25nBPRoC6SUQAvD_BwE",
     "category": "tv-e-eletronicos",
     "price": 2799,
     "unit": "",
@@ -382,10 +424,12 @@
         "original": "https://i.zst.com.br/thumbs/12/3d/12/1952750612.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Smart TV"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Smart TV"
+      }
+    ],
     "variations": []
   },
   {
@@ -393,6 +437,7 @@
     "name": "Smart TV QLED 55 Samsung 4K HDR QN55Q70AAGXZD 4 HDMI",
     "slug": "smart-tv-qled-55-samsung-4k-hdr-55q70a-3-hdmi",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/tv/smart-tv-qled-55-samsung-4k-hdr-55q70a-3-hdmi?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AdfMZdi7FAOXcmuXzLaCU4w7ZQyWB5JdTzU6WEyT7VpUdgfVXhHluhoCilkQAvD_BwE",
     "category": "tv-e-eletronicos",
     "price": 3649,
     "unit": "",
@@ -408,10 +453,12 @@
         "original": "https://i.zst.com.br/thumbs/12/19/2f/1549571522.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Smart TV"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Smart TV"
+      }
+    ],
     "variations": []
   },
   {
@@ -419,6 +466,7 @@
     "name": "Smart TV LED 65 Samsung Crystal 4K HDR UN65AU7700GXZD",
     "slug": "smart-tv-led-65-samsung-crystal-4k-hdr-65au7700",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/tv/smart-tv-led-65-samsung-crystal-4k-hdr-65au8000?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AXhN86pNJMABPoiT05dOyrUvJLHc1HCqCBMuN4JLMuXfpNCqi2rcQxoCFb0QAvD_BwE",
     "category": "tv-e-eletronicos",
     "price": 3829,
     "unit": "",
@@ -434,10 +482,12 @@
         "original": "https://i.zst.com.br/thumbs/12/32/f/-52450406.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Smart TV"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Smart TV"
+      }
+    ],
     "variations": []
   },
   {
@@ -445,6 +495,7 @@
     "name": "Console Playstation 5 825 GB Sony 4K",
     "slug": "console-playstation-5-sony",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/console-de-video-game/console-playstation-5-sony?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AYshyhybOfqHbs6lXY7TdebP8l8Ut-csf4ag-ousdDvVgDUjinaGuBoCaF8QAvD_BwE",
     "category": "games",
     "price": 4749,
     "unit": "",
@@ -460,10 +511,12 @@
         "original": "https://i.zst.com.br/thumbs/12/21/15/1116423324.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Console"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Console"
+      }
+    ],
     "variations": []
   },
   {
@@ -471,6 +524,7 @@
     "name": "Console Portátil Switch 32 GB com Joy Con Nintendo",
     "slug": "console-nintendo-switch-32-gb",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/console-de-video-game/console-nintendo-switch-32-gb?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AfJnRxSiupcKu38azv0qBWHUK-JxkadJS0nkVndcijHfZoerrcz7EBoCvjsQAvD_BwE",
     "category": "games",
     "price": 2299,
     "unit": "",
@@ -486,10 +540,12 @@
         "original": "https://i.zst.com.br/thumbs/12/c/31/175144651.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Console"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Console"
+      }
+    ],
     "variations": []
   },
   {
@@ -497,6 +553,7 @@
     "name": "Console Xbox Series X 1 TB Microsoft",
     "slug": "console-xbox-series-x-microsoft",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/console-de-video-game/console-xbox-series-x-microsoft?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AfMKPTCag5BqZnHusWua0nUbYNaAbbN1Y0KcqBX2m8jnedBucIdW7RoCmAgQAvD_BwE",
     "category": "games",
     "price": 4769.84,
     "unit": "",
@@ -512,10 +569,12 @@
         "original": "https://i.zst.com.br/thumbs/12/3d/d/1201030801.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Console"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Console"
+      }
+    ],
     "variations": []
   },
   {
@@ -523,6 +582,7 @@
     "name": "Console Portátil Switch Lite 32 GB Nintendo",
     "slug": "console-portatil-switch-lite-32-gb-nintendo",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/console-de-video-game/console-portatil-switch-lite-32-gb-nintendo?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AQ76bz-K0jAE9gRoInO28Lubiwl4OzbPCsXJC2VB6nKW-9BTSuoY0RoC_UgQAvD_BwE",
     "category": "games",
     "price": 1447,
     "unit": "",
@@ -538,10 +598,12 @@
         "original": "https://i.zst.com.br/thumbs/12/2/37/856986787.jpg"
       }
     ],
-    "tags": [{
-      "id": 0,
-      "name": "Console"
-    }],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Console"
+      }
+    ],
     "variations": []
   },
   {
@@ -549,6 +611,7 @@
     "name": "Máquina De Waffle Britânia Golden 850W",
     "slug": "maquina-de-waffle-britania-golden-850w",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/busca/golden+waffle+britania?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AZE5Av6QtfAO3Gr95yaxMjuIuwgKoobgqKqFmfoqS3ZQlNuyMPbCfBoCAFkQAvD_BwE",
     "category": "eletroportateis",
     "price": 149.9,
     "unit": "",
@@ -567,6 +630,7 @@
     "name": "Máquina Para Gaseificar Água Soda Stream Fizzi",
     "slug": "maquina-para-gaseificar-agua-soda-stream-fizzi",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/busca/maquina+de+gaseificar+agua?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0Aay6jU22BFG44z00YILIiF3hTQJbqKIQvtrqqsTB7wjDU4LkvF5l2xoCglQQAvD_BwE",
     "category": "eletroportateis",
     "price": 688.49,
     "unit": "",
@@ -585,6 +649,7 @@
     "name": "Máquina de Waffle Cadence WAF100",
     "slug": "maquina-de-waffle-cadence-waf100",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/busca/maquina+waffle+cadence",
     "category": "eletroportateis",
     "price": 119,
     "unit": "",
@@ -608,6 +673,7 @@
     "name": "Maquina Moer Moedor Triturador Elétrico Frango Carne Moída",
     "slug": "maquina-moer-moedor-triturador-eletrico-frango-carne-moida",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/busca/maquina+de+moer+carne?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AQ81bt_B7CJJLrAI2Y_elGyqqGXL4mgYkKk00_hxc5z4Je_UXFnBmBoC-lUQAvD_BwE",
     "category": "eletroportateis",
     "price": 415.99,
     "unit": "",
@@ -626,6 +692,7 @@
     "name": "Geladeira Brastemp Ative! BRO80AK Frost Free French Door Inverse 540 Litros cor Inox",
     "slug": "geladeira-brastemp-540-litros-bro80ak",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/geladeira/geladeira-brastemp-540-litros-bro80ak?resultorder=10&og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0Ae8QYbilaOIWzK-WRTTJwo3HJ1PzoSgyna8_rKnDZsr3MApF0qnt-xoC6AQQAvD_BwE",
     "category": "eletrodomesticos",
     "price": 6075.02,
     "unit": "",
@@ -649,6 +716,7 @@
     "name": "Lava e Seca LG 11kg Vivace VC4 CV5011TS4A",
     "slug": "lava-e-seca-lg-11kg-cv5011ts4a",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/lavadora-roupas/lava-e-seca-lg-11kg-cv5011ts4a?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AWSCKADxmrsdO5CN9WOIY_YYq_dfwBgPtmZ8y_cIWIxfFXHvgEcuFxoC5_4QAvD_BwE",
     "category": "eletrodomesticos",
     "price": 3790.80,
     "unit": "",
@@ -672,6 +740,7 @@
     "name": "Geladeira Brastemp Ative! BRE80AK Frost Free Inverse 573 Litros cor Inox",
     "slug": "geladeira-brastemp-inverse-573-litros-inox-bre80ak",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/geladeira/geladeira-brastemp-inverse-573-litros-inox-bre80ak?og=18000&og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AUEmv1aMorLyGivUp6tSW981DAFb_cwzGjipHE_hXnyeBoirBS9X4BoC7A0QAvD_BwE",
     "category": "eletrodomesticos",
     "price": 4422.28,
     "unit": "",
@@ -695,6 +764,7 @@
     "name": "Geladeira Consul CRE44AK Frost Free Inverse 397 Litros cor Inox",
     "slug": "geladeira-consul-cre44ak-frost-free-inverse-397-litros-inox",
     "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/geladeira/geladeira-consul-cre44ak-frost-free-inverse-397-litros-inox?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AaYk6KwUA759t_oJoac-X8cV5fHplPn2_gzclSMA5WcorD1Y23cA_hoCFmIQAvD_BwE",
     "category": "eletrodomesticos",
     "price": 3342.24,
     "unit": "",

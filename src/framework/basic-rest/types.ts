@@ -81,6 +81,7 @@ export type Product = {
   name: string;
   slug: string;
   unit: string;
+  order: string;
   price: number;
   min_price?: number;
   max_price?: number;
