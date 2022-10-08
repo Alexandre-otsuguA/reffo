@@ -15,7 +15,7 @@ export default function AccountDetailsPage() {
     <>
       <Seo
         title="Account Settings"
-        description="Fastest E-commerce template built with React, NextJS, TypeScript, React-Query and Tailwind CSS."
+        description=""
         path="my-account/account-settings"
       />
       <AccountLayout>
