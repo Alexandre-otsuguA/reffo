@@ -50,13 +50,15 @@ export default function TermsPage() {
             <div className="grid my-8 lg:my-14 grid-cols-2 gap-4">
               <Image
                 src={aboutUs1}
+                priority
                 alt={t('text-map')}
-                className=" me-5"
+                className="me-5"
                 width={576}
                 height={390}
               />
               <Image
                 src={aboutUs2}
+                priority
                 alt={t('text-map')}
                 className=""
                 width={576}
@@ -72,6 +74,7 @@ export default function TermsPage() {
             <div className="my-8 lg:my-14 flex flex-col sm:grid grid-cols-3 gap-4">
               <Image
                 src={aboutUs3}
+                priority
                 alt={t('text-map')}
                 className=" me-4"
                 width={379}
@@ -79,6 +82,7 @@ export default function TermsPage() {
               />
               <Image
                 src={aboutUs4}
+                priority
                 alt={t('text-map')}
                 className=" me-4"
                 width={379}
@@ -86,6 +90,7 @@ export default function TermsPage() {
               />
               <Image
                 src={aboutUs5}
+                priority
                 alt={t('text-map')}
                 className=" "
                 width={379}
