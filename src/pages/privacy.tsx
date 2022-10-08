@@ -17,7 +17,7 @@ export default function PrivacyPage() {
   const { t } = useTranslation('privacy');
   return (
     <>
-      <Seo title="Privacy" description="" path="privacy" />
+      <Seo title="Privacidade" description="" path="privacy" />
       <PageHeroSection heroTitle="text-page-privacy-policy" />
       <div className="py-12 lg:py-16 2xl:py-20 xl:px-16 2xl:px-24 3xl:px-36">
         <Container>
