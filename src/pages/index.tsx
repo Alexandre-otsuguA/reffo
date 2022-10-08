@@ -1,7 +1,6 @@
 import Layout from '@components/layout/layout-two';
 import Container from '@components/ui/container';
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
-import DownloadApps from '@components/common/download-apps';
 import BundleGrid from '@components/bundle/bundle-grid';
 import HeroBannerCard from '@components/hero/hero-banner-card';
 import BestSellerGroceryProductFeed from '@components/product/feeds/best-seller-grocery-product-feed';
@@ -43,7 +42,6 @@ export default function Home() {
         />
         <PopularProductFeed />
       </Container>
-      <DownloadApps />
     </>
   );
 }

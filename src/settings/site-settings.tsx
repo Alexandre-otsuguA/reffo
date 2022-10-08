@@ -4,8 +4,8 @@ export const siteSettings = {
   name: 'Reffo',
   description: 'Lorem ipsum dolor set amed.',
   author: {
-    name: 'Alexandre Augusto',
-    websiteUrl: 'https://github.com/',
+    name: 'Reffo',
+    websiteUrl: 'https://reffo.vercel.app',
     address: '',
   },
   logo: {

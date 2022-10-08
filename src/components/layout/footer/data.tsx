@@ -25,11 +25,6 @@ export const footer = {
           title: 'link-terms',
           path: '/terms',
         },
-        {
-          id: 3,
-          title: 'link-site-map',
-          path: '/',
-        },
       ],
     },
     {
@@ -38,12 +33,12 @@ export const footer = {
       lists: [
         {
           id: 1,
-          title: 'link-announcements',
+          title: 'link-discussion-boards',
           path: '/',
         },
         {
           id: 2,
-          title: 'link-discussion-boards',
+          title: 'link-announcements',
           path: '/',
         },
       ],

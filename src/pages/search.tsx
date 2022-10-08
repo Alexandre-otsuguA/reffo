@@ -4,7 +4,6 @@ import Layout from '@components/layout/layout';
 import { ShopFilters } from '@components/search/filters';
 import { ProductGrid } from '@components/product/product-grid';
 import { serverSideTranslations } from 'next-i18next/serverSideTranslations';
-import DownloadApps from '@components/common/download-apps';
 import { GetStaticProps } from 'next';
 import { Element } from 'react-scroll';
 import SearchTopBar from '@components/search/search-top-bar';
@@ -42,7 +41,6 @@ export default function Search() {
           </div>
         </Element>
       </Container>
-      <DownloadApps />
     </>
   );
 }

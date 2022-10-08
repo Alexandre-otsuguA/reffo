@@ -41,13 +41,10 @@ const ForgetPasswordForm = () => {
   return (
     <div className="py-6 px-5 sm:p-8 bg-skin-fill mx-auto rounded-lg w-full sm:w-96 md:w-450px">
       <CloseButton onClick={closeModal} />
-      <div className="text-center mb-9 pt-2.5">
+      <div className="text-center pt-2.5 mb-8 sm:mb-10">
         <div onClick={closeModal}>
           <Logo />
         </div>
-        <p className="text-sm md:text-base text-body mt-3 sm:mt-4 mb-8 sm:mb-10">
-          {t('common:forgot-password-helper')}
-        </p>
       </div>
       <form
         onSubmit={handleSubmit(data => onSubmit(data))}

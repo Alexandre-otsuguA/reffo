@@ -1,6 +1,5 @@
 import Container from '@components/ui/container';
 import Layout from '@components/layout/layout';
-import DownloadApps from '@components/common/download-apps';
 import RelatedProductFeed from '@components/product/feeds/related-product-feed';
 import Breadcrumb from '@components/ui/breadcrumb';
 import ProductSingleDetails from '@components/product/product';
@@ -20,7 +19,6 @@ export default function ProductPage() {
       </div>
 
       <RelatedProductFeed uniqueKey="related-products" />
-      <DownloadApps />
     </>
   );
 }

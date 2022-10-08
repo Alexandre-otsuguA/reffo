@@ -25,6 +25,11 @@ export default class CustomDocument extends Document {
             href="https://fonts.googleapis.com/css2?family=Rubik:wght@400;500;600&display=swap"
             rel="stylesheet"
           />
+          <script
+            src="//instant.page/5.1.1"
+            type="module"
+            integrity="sha384-MWfCL6g1OTGsbSwfuMHc8+8J2u71/LA8dzlIN3ycajckxuZZmF+DNjdm7O6H3PSq"
+          />
         </Head>
         <body>
           <Main />
