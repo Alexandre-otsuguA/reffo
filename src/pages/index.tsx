@@ -35,11 +35,6 @@ export default function Home() {
         />
         <CategoryGridBlock />
         <BestSellerGroceryProductFeed />
-        <BannerCard
-          banner={banner}
-          className="mb-12 lg:mb-14 xl:pb-3"
-          effectActive={false}
-        />
         <PopularProductFeed />
       </Container>
     </>

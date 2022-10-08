@@ -2,7 +2,8 @@ import { PTFlag } from '@components/icons/language/PTFlag';
 
 export const siteSettings = {
   name: 'Reffo',
-  description: 'Lorem ipsum dolor set amed.',
+  description:
+    'Notícias sobre o mundo mobile, celulares, vídeos, fotos, reviews e as melhores ofertas da internet.',
   author: {
     name: 'Reffo',
     websiteUrl: 'https://reffo.vercel.app',

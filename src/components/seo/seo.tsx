@@ -4,11 +4,7 @@ interface SeoProps extends NextSeoProps {
   path: string;
 }
 
-const Seo = ({
-  title,
-  description = 'Notícias sobre o mundo mobile, celulares, vídeos, fotos, reviews e as melhores ofertas da internet.',
-  path,
-}: SeoProps) => {
+const Seo = ({ title, description, path }: SeoProps) => {
   return (
     <NextSeo
       title={title}

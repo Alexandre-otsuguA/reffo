@@ -150,8 +150,8 @@ module.exports = {
         '0px 1px 2px rgba(34, 34, 34, 0.03), 0px 1px 3px rgba(34, 34, 34, 0.05)',
     },
     fontFamily: {
-      body: ["'Rubik', sans-serif"],
-      heading: ["'Rubik', sans-serif"],
+      body: ["'Inter', sans-serif"],
+      heading: ["'Inter', sans-serif"],
     },
   },
   plugins: [

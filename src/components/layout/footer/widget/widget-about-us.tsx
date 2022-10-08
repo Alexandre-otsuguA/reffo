@@ -21,13 +21,13 @@ const WidgetAbout: React.FC<AboutProps> = ({ social, className }) => {
 
   return (
     <div className={`pb-10 sm:pb-0 ${className}`}>
-      <div className="flex flex-col text-center sm:text-start max-w-[300px] mx-auto sm:ms-0 pb-6 sm:pb-5">
-        <Logo href={ROUTES.HOME} className="mb-3 lg:mb-5 mx-auto sm:ms-0" />
+      <div className="flex flex-col sm:text-start max-w-[300px] sm:ms-0 pb-6 sm:pb-5">
+        <Logo href={ROUTES.HOME} className="mb-3 lg:mb-5 sm:ms-0" />
         <Text>{t('text-about-us')}</Text>
       </div>
 
       {social && (
-        <ul className="flex flex-wrap justify-center sm:justify-start space-s-4 md:space-s-5 mx-auto md:mx-0">
+        <ul className="flex flex-wrap sm:justify-start space-s-4 md:space-s-5 md:mx-0">
           {social?.map(item => (
             <li
               className="transition hover:opacity-80"
