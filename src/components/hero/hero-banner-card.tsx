@@ -49,6 +49,7 @@ const HeroBannerCard: FC<BannerProps> = ({
       >
         <div className="text-center">
           <h2
+            style={{ padding: '0 5vw' }}
             className={cn(
               'text-3xl md:text-4xl font-heading font-extrabold leading-snug md:leading-tight xl:leading-[1.3em] mb-3 md:mb-4 xl:mb-3 -mt-2 xl:-mt-3 2xl:-mt-4',
               {
@@ -64,6 +65,7 @@ const HeroBannerCard: FC<BannerProps> = ({
             {t(title)}
           </h2>
           <p
+            style={{ padding: '0 10vw' }}
             className={cn(
               'text-base md:text-[17px] xl:text-lg leading-7 md:leading-8 xl:leading-[1.92em] xl:px-16',
               {

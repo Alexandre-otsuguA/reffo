@@ -124,5 +124,34 @@
       "name": "Celular"
     }],
     "variations": []
+  },
+  {
+    "id": 5,
+    "name": "Smartphone Apple iPhone 13 Pro Max 128GB Câmera Tripla",
+    "slug": "smartphone-apple-iphone-13-pro-max-128gb-ios-camera-tripla",
+    "description": "Lorem ipsum dolor sit amet",
+    "origin": "https://www.buscape.com.br/celular/smartphone-apple-iphone-13-pro-max-128gb-ios-camera-tripla?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AdD_F6-n4PHaPkRG3ZBXrlynGOzdlX6JOOBa7HbRWeD1TwYDoMHcfxoCgW8QAvD_BwE",
+    "category": "iphones",
+    "price": 7417,
+    "unit": "",
+    "gallery": [
+      {
+        "id": 0,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/18/3c/-555408422.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/18/3c/-555408422.jpg"
+      },
+      {
+        "id": 1,
+        "thumbnail": "https://i.zst.com.br/thumbs/12/16/38/-14448464.jpg",
+        "original": "https://i.zst.com.br/thumbs/12/16/38/-14448464.jpg"
+      }
+    ],
+    "tags": [
+      {
+        "id": 0,
+        "name": "Iphone"
+      }
+    ],
+    "variations": []
   }
 ]

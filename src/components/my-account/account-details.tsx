@@ -15,7 +15,7 @@ const AccountDetails: React.FC = () => {
   const { data: customer } = useCustomerQuery();
   const toast = useToast();
   const { mutate: updateCustomer, isLoading } = useUpdateCustomer({
-    onSuccess: () => toast('OK!', { status: 'success' }),
+    onSuccess: () => toast('Informações salvas', { status: 'success' }),
     onError: ({ message }) => toast(message, { status: 'error' }),
   });
   const { t } = useTranslation();
