@@ -23,7 +23,8 @@ export const useLoginMutation = (params: {
   const { authorize } = useUI();
   return useMutation((input: LoginInputType) => login(input), {
     onSuccess: ev => {
-      ev.input.remember_me && Cookies.set('auth_token', ev.token);
+      // ev.input.remember_me && Cookies.set('auth_token', ev.token);
+      true && Cookies.set('auth_token', ev.token);
       authorize();
       params.onSuccess(ev);
     },
