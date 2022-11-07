@@ -3,7 +3,7 @@
     "id": 0,
     "name": "Smartphone Xiaomi Redmi Note 10S 6GB RAM 128GB Câmera Quádrupla",
     "slug": "smartphone-xiaomi-redmi-note-10s-6gb-ram-128gb-android",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Smartphone Xiaomi Redmi Note 10S 6GB RAM 128GB Câmera Quádrupla atualmente é R$ 1.299,90.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">Contando com o sistema operacional Android, Xiaomi traz seu modelo, o Smartphone Xiaomi Redmi Note 10S 6GB RAM 128GB Câmera Quádrupla. O celular tem tela AMOLED de 6.43\", e resolução Full HD+. As dimensões do aparelho são 16.0cm de altura e 7.45cm de largura, com peso de 178.8g. O smartphone possui uma câmera frontal de 13.0 MP e um conjunto de câmeras na parte de trás, cada uma com 64.0 + 8.0 + 2.0 + 2.0 MP. Além de filmar em 4K, a câmera deste aparelho também oferece as tecnologias Autofoco, Câmera Quádrupla, Flash, HDR, Modo Retrato, Sensor TOF, Slow Motion. Este Redmi possui uma bateria com capacidade de 5000mAh. Este Redmi é equipado com o processador MediaTek Helio G95, que tem capacidade de 2.05GHz de processamento. Este dispositivo possui memória RAM de 6.0GB. </p></div>",
     "origin": "https://www.buscape.com.br/celular/smartphone-xiaomi-redmi-note-10s-6gb-ram-128gb-android?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AZ8PFVctAYV7JQieoVir09lM4D3rgFWhK5kegIsYrlDADg-ofoZVkxoCzdkQAvD_BwE",
     "category": "celulares",
     "price": 1313.31,
@@ -22,27 +22,14 @@
         "original": "https://i.zst.com.br/thumbs/12/13/b/-709050816.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Celular"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Celular" }],
     "variations": [
       {
         "id": 0,
         "name": "Modelo",
         "options": [
-          {
-            "id": 0,
-            "name": "128GB",
-            "price": 1313.31
-          },
-          {
-            "id": 1,
-            "name": "256GB",
-            "price": 1613.31
-          }
+          { "id": 0, "name": "128GB", "price": 1313.31 },
+          { "id": 1, "name": "256GB", "price": 1613.31 }
         ]
       }
     ]
@@ -51,7 +38,7 @@
     "id": 1,
     "name": "Smartphone Apple iPhone 13 128GB Câmera Dupla",
     "slug": "smartphone-apple-iphone-13-128gb-ios",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Smartphone Apple iPhone 13 128GB Câmera Dupla atualmente é R$ 4.799,00.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">Contando com o sistema operacional iOS, Apple traz seu modelo, o Smartphone Apple iPhone 13 128GB Câmera Dupla. A tela de tecnologia Super Retina XDR conta com 6.1\" em resolução 2K. O aparelho apresenta 14.6cm de altura e 7.15cm de largura, com peso de 173.0g. O smartphone possui uma câmera frontal de 12.0 MP e um conjunto de câmeras na parte de trás, cada uma com 12.0 + 12.0 MP. Com resolução 4K em vídeos, a câmera deste iPhone também possui os recursos de Autofoco, Câmera Dupla, Flash, Flash Frontal, HDR, Modo Noturno, Modo Retrato, Slow Motion. Este iPhone possui uma bateria com capacidade de 3240mAh. Equipado com o processador Apple A15 Bionic, ele tem uma capacidade de 3.2GHz de processamento. A memória RAM do celular é de 4.0GB. </p></div>",
     "origin": "https://www.buscape.com.br/celular/pre-venda-smartphone-apple-iphone-13-128gb-ios?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AREtxhlPQwTdudokYJ0pozQu0oyuUY6Ahf9Jrqm8CRltYJ4kd_CLPBoC1voQAvD_BwE",
     "category": "celulares",
     "price": 5207,
@@ -69,14 +56,8 @@
       }
     ],
     "tags": [
-      {
-        "id": 0,
-        "name": "Celular"
-      },
-      {
-        "id": 1,
-        "name": "Iphone"
-      }
+      { "id": 0, "name": "Celular" },
+      { "id": 1, "name": "Iphone" }
     ],
     "variations": []
   },
@@ -84,7 +65,7 @@
     "id": 2,
     "name": "Smartphone Samsung Galaxy M52 5G 128GB Câmera Tripla",
     "slug": "smartphone-samsung-galaxy-m52-5g-128gb-android-camera-tripla",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Smartphone Samsung Galaxy M52 5G 128GB Câmera Tripla atualmente é R$ 1.799,00.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">Smartphone Samsung Galaxy M52 5G 128GB Câmera Tripla é um smartphone da Samsung com o sistema operacional Android. A tela do celular conta com a tecnologia Super AMOLED tem 6.7\" com resolução Full HD+. O aparelho apresenta 16.42cm de altura e 7.64cm de largura, com peso de 173.0g. O aparelho dispõe de câmera frontal de 32.0 MP, e traseiras de 64.0 + 12.0 + 5.0 MP. Com resolução 4K em vídeos, a câmera deste Galaxy também possui os recursos de Câmera Tripla, Flash, HDR. Este Galaxy possui uma bateria com capacidade de 5000mAh. Com o processador Qualcomm Snapdragon 778G 5G, este Samsung alcança até 1.8GHz, 2.4GHz de capacidade de processamento. A memória RAM do celular é de 6.0GB. </p></div>",
     "origin": "https://www.buscape.com.br/celular/smartphone-samsung-galaxy-m52-5g-128gb-android-camera-tripla?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0Aah1cAWwCobT3sfrcVog0FjS8oYoLrHLWRby3L6YZnzrJNmpig89GxoCer0QAvD_BwE",
     "category": "celulares",
     "price": 1619,
@@ -101,19 +82,14 @@
         "original": "https://i.zst.com.br/thumbs/12/25/31/-38397966.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Celular"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Celular" }],
     "variations": []
   },
   {
     "id": 3,
     "name": "Smartphone Samsung Galaxy S21 5G SM-G991B 128GB Câmera Tripla",
     "slug": "smartphone-samsung-galaxy-s21-5g-128gb-android-camera-tripla",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Smartphone Samsung Galaxy S21 5G SM-G991B 128GB Câmera Tripla atualmente é R$ 3.332,22.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">Smartphone Samsung Galaxy S21 5G SM-G991B 128GB Câmera Tripla é um smartphone da Samsung com o sistema operacional Android. O celular tem tela AMOLED Dinâmico de 6.2\", e resolução Full HD+. As medidas do modelo são 15.1cm de altura e 7.12cm de largura, com peso de 169.0g. O aparelho dispõe de câmera frontal de 10.0 MP, e traseiras de 12.0 + 64.0 + 12.0 MP. Além de filmar em 8K, a câmera deste aparelho também oferece as tecnologias Autofoco, Câmera Tripla, Dual Shot, Flash, HDR, Slow Motion. Este Samsung conta com 4000mAh na capacidade de sua bateria. Equipado com o processador Exynos 2100, ele tem uma capacidade de 2.2GHz, 2.9GHz, 2.8GHz de processamento. O celular tem memória RAM de 8.0GB. </p></div>",
     "origin": "https://www.buscape.com.br/celular/smartphone-samsung-galaxy-s21-5g-128gb-android-camera-tripla?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AaLRoatQUqtLE73nhnVY6r-2NIZzvk1_-ObjLBkjtQJnA_7U355XGBoCS74QAvD_BwE",
     "category": "celulares",
     "price": 2899,
@@ -130,19 +106,14 @@
         "original": "https://i.zst.com.br/thumbs/12/16/32/-731211118.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Celular"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Celular" }],
     "variations": []
   },
   {
     "id": 4,
     "name": "Smartphone Apple iPhone 11 64GB Câmera Dupla",
     "slug": "smartphone-apple-iphone-11-64gb-ios",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Smartphone Apple iPhone 11 64GB Câmera Dupla atualmente é R$ 2.997,00.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">A Apple traz no Smartphone Apple iPhone 11 64GB Câmera Dupla o sistema operacional iOS. A tela do celular é Liquid Retina HD com 6.1\", e resolução HD+. O modelo tem 15.09cm de altura e 7.57cm de largura, com peso de 194.0g. O aparelho dispõe de câmera frontal de 12.0 MP, e traseiras de 12.0 + 12.0 MP. Esse smartphone conta com uma câmera traseira que grava vídeos em 4K, além de conter as tecnologias Câmera Dupla, Flash, Modo Retrato, HDR, Autofoco. A bateria do Smartphone Apple iPhone 11 64GB Câmera Dupla possui capacidade de 3110mAh. Com o processador Apple A13 Bionic, este Apple alcança até 1.8GHz, 2.65GHz de capacidade de processamento. A memória RAM do celular é de 4.0GB. </p></div>",
     "origin": "https://www.buscape.com.br/celular/smartphone-apple-iphone-11-64gb-ios?resultorder=9&og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AYyc7ZiHlPCPP-mlylUW_fRPdZUL7Tc2z2pxCVb_pnCRSKUbzsOBDxoC2fcQAvD_BwE",
     "category": "iphones",
     "price": 3099,
@@ -159,19 +130,14 @@
         "original": "https://i.zst.com.br/thumbs/12/1f/15/929874933.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Iphone"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Iphone" }],
     "variations": []
   },
   {
     "id": 5,
     "name": "Smartphone Apple iPhone 13 Pro Max 128GB Câmera Tripla",
     "slug": "smartphone-apple-iphone-13-pro-max-128gb-ios-camera-tripla",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Smartphone Apple iPhone 13 Pro Max 128GB Câmera Tripla atualmente é R$ 7.899,00.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">A Apple traz no Smartphone Apple iPhone 13 Pro Max 128GB Câmera Tripla o sistema operacional iOS. A tela do tipo Super Retina XDR de 6.7\" e resolução 4K. As medidas do modelo são 16.0cm de altura e 7.81cm de largura, com peso de 238.0g. O aparelho dispõe de câmera frontal de 12.0 MP, e traseiras de 12.0 + 12.0 + 12.0 MP. A câmera traseira deste iPhone filma em resolução 4K, além de ser equipado com as tecnologias Autofoco, Câmera Tripla, Flash, Flash Frontal, HDR, Modo Noturno, Modo Retrato, Slow Motion. Este Apple conta com 4352mAh na capacidade de sua bateria. Este iPhone é equipado com o processador Apple A15 Bionic, que tem capacidade de 3.2GHz de processamento. A memória RAM do celular é de 6.0GB. </p></div>",
     "origin": "https://www.buscape.com.br/celular/smartphone-apple-iphone-13-pro-max-128gb-ios-camera-tripla?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AdD_F6-n4PHaPkRG3ZBXrlynGOzdlX6JOOBa7HbRWeD1TwYDoMHcfxoCgW8QAvD_BwE",
     "category": "iphones",
     "price": 7417,
@@ -188,19 +154,14 @@
         "original": "https://i.zst.com.br/thumbs/12/16/38/-14448464.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Iphone"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Iphone" }],
     "variations": []
   },
   {
     "id": 6,
     "name": "Smartphone Apple iPhone 12 128GB Câmera Dupla",
     "slug": "smartphone-apple-iphone-12-128gb-ios",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Smartphone Apple iPhone 12 128GB Câmera Dupla atualmente é R$ 4.399,00.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">A Apple traz no Smartphone Apple iPhone 12 128GB Câmera Dupla o sistema operacional iOS. O celular tem tela Super Retina XDR de 6.1\", e resolução Full HD+. O modelo tem 14.7cm de altura e 7.2cm de largura, com peso de 162.0g. O celular tem câmera frontal de 12.0 MP e um conjunto de sensores traseiros de 12.0 + 12.0 MP. Com resolução 4K em vídeos, a câmera deste iPhone também possui os recursos de Câmera Dupla, Flash. A bateria do Smartphone Apple iPhone 12 128GB Câmera Dupla possui capacidade de 2815mAh. Este iPhone é equipado com o processador Apple A14 Bionic, que tem capacidade de 1.8GHz, 3.1GHz de processamento. O aparelho conta com memória RAM de 4.0GB. </p></div>",
     "origin": "https://www.buscape.com.br/celular/smartphone-apple-iphone-12-128gb-ios?og=18000&og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AfRkoo9W0K6g7yu7cl0Rdhn-VECkYwelKVs2ahwzocqfiI0GuG0dRBoCvKEQAvD_BwE",
     "category": "iphones",
     "price": 4399,
@@ -217,19 +178,14 @@
         "original": "https://i.zst.com.br/thumbs/12/8/17/1297612682.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Iphone"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Iphone" }],
     "variations": []
   },
   {
     "id": 7,
     "name": "Smartphone Apple iPhone XR 64GB 12.0 MP",
     "slug": "smartphone-apple-iphone-xr-64gb-4g",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "none",
     "origin": "https://www.buscape.com.br/busca/iphone+xr+64gb?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AX85NsnfHBclPif_FpYHGveySW4VVK65DKhYguYEa8Xw8laFfkP68RoCQr0QAvD_BwE",
     "category": "iphones",
     "price": 3699,
@@ -246,19 +202,14 @@
         "original": "https://i.zst.com.br/thumbs/12/13/b/665050249.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Iphone"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Iphone" }],
     "variations": []
   },
   {
     "id": 8,
     "name": "Macbook Apple Air A2337 M1 13,3 8GB SSD 256 GB Mac OS Leitor Biométrico",
     "slug": "macbook-apple-air-m1-13-3-8gb-ssd-256-gb-tela-de-retina-mac-os-wi-fi",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "none",
     "origin": "https://www.buscape.com.br/lead?oid=587437138&sortorder=-1&index=&pagesize=-1&channel=&og=19221&pla=2022-07-26T09:11:04.984520&og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AfH-Cw6I_H_SWQ1gDXOm9stdZXWmGkrsFzHctR474Ky3ol0Zg69SRRoCm-EQAvD_BwE",
     "category": "notebooks",
     "price": 6790,
@@ -276,14 +227,8 @@
       }
     ],
     "tags": [
-      {
-        "id": 0,
-        "name": "Notebook"
-      },
-      {
-        "id": 1,
-        "name": "Apple"
-      }
+      { "id": 0, "name": "Notebook" },
+      { "id": 1, "name": "Apple" }
     ],
     "variations": []
   },
@@ -291,7 +236,7 @@
     "id": 9,
     "name": "Notebook Samsung Book NP550XDA-KH2BR Intel Core i5 1135G7 15,6 8GB SSD 256 GB",
     "slug": "notebook-samsung-book-np550xda-kh2br-intel-core-i5-1135g7-15-6-8gb-ssd-256-gb-emmc-8-windows-11",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Notebook Samsung Book NP550XDA-KH2BR Intel Core i5 1135G7 15,6\" 8GB SSD 256 GB Windows 11 atualmente é R$ 2.959,00.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">A Samsung conta com o Notebook Samsung Book NP550XDA-KH2BR Intel Core i5 1135G7 15,6\" 8GB SSD 256 GB Windows 11, que vem com o sistema operacional Windows 11 de fábrica. O laptop da Samsung tem 35.9cm de largura, 24.1cm de profundidade e 1.8cm de altura, pesando 1.8kg. O NP550XDA-KH2BR, da Samsung, possui tela de resolução Full HD e 15.6\". Este notebook da Samsung possui um processador Intel Core i5 1135G7 de 11ª Geração e uma memória RAM de 8.0GB. O SSD de 256.0GB é o componente responsável pelo armazenamento interno do Samsung NP550XDA-KH2BR. Este Samsung traz placa de vídeo Integrada (On-Board). O notebook Samsung tem conexão sem fio por Bluetooth, Wi-Fi (2.4 GHz e 5.0 GHz) para internet e para acessórios wireless. Além disso, ele tem entradas Ethernet (RJ-45), HDMI, Leitor de cartão, USB 2.0, USB 3.0, USB-C, Áudio. </p></div>",
     "origin": "https://www.buscape.com.br/notebook/notebook-samsung-book-np550xda-kh2br-intel-core-i5-1135g7-15-6-8gb-ssd-256-gb-emmc-8-windows-11?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0Ae2EElXg3ql6MYcVVMHxMOYNi-N4m8py5ZacV3iIfIfJWj9KoK83MBoC5kgQAvD_BwE",
     "category": "notebooks",
     "price": 3229,
@@ -308,19 +253,14 @@
         "original": "https://i.zst.com.br/thumbs/12/2c/10/-422352961.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Notebook"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Notebook" }],
     "variations": []
   },
   {
     "id": 10,
     "name": "Notebook Gamer Lenovo IdeaPad 3i 82CGS00100 Intel Core i5 10300H 15,6 8GB SSD 256 GB Linux",
     "slug": "notebook-gamer-dell-ideapad-3i-82cgs00100-intel-core-i5-10300h-15-6-8gb-ssd-256-gb",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O Notebook Gamer Lenovo IdeaPad 3i 82CGS00100 Intel Core i5 10300H 15,6\" 8GB SSD 256 GB Linux GeForce GTX 1650, da Lenovo, conta com o sistema operacional Linux. Quanto às dimensões, o 82CGS00100 tem 35.9cm de largura, 24.9cm de profundidade e 2.4cm de altura, pesando 2.2kg. O 82CGS00100 possui tela de 15.6\" e resolução Full HD. O computador portátil da Lenovo, do modelo IdeaPad 3i usa uma memória RAM de 8.0GB, que é expansível até 32.0GB. Seu processador é um Intel Core i5 10300H  de 10ª Geração. Em armazenamento, o Lenovo 82CGS00100 utiliza um SSD de 256.0GB. A placa de vídeo GeForce GTX 1650 é a responsável por renderizar gráficos de games e programas de edição, por ser uma placa Dedicada (Off-Board). Este notebook traz portas HDMI, Leitor de cartão, USB 3.1, Áudio, USB-C, Ethernet (RJ-45). Para conexões sem fio, o Lenovo 82CGS00100 conta com Bluetooth, Wi-Fi (2.4 GHz e 5.0 GHz). </p></div>",
     "origin": "https://www.buscape.com.br/notebook/notebook-gamer-dell-ideapad-3i-82cgs00100-intel-core-i5-10300h-15-6-8gb-ssd-256-gb",
     "category": "notebooks",
     "price": 3689,
@@ -337,19 +277,14 @@
         "original": "https://i.zst.com.br/thumbs/12/10/38/1671811295.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Notebook"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Notebook" }],
     "variations": []
   },
   {
     "id": 11,
     "name": "Notebook Gamer Acer Nitro 5 AN515-55-58UJ Intel Core i5 10300H 15,6 8GB HD 1 TB SSD 256 GB",
     "slug": "notebook-gamer-acer-nitro-5-an515-55-58uj-intel-core-i5-10210u-15-6-8gb-hd-1-tb-ssd-256-gb",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Notebook Gamer Acer Nitro 5 AN515-55-58UJ Intel Core i5 10300H 15,6\" 8GB HD 1 TB SSD 256 GB Windows 11 GeForce GTX 1650 atualmente é R$ 4.599,00.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O Notebook Gamer Acer Nitro 5 AN515-55-58UJ Intel Core i5 10300H 15,6\" 8GB HD 1 TB SSD 256 GB Windows 11 GeForce GTX 1650 da marca Acer conta com o sistema operacional Windows 11. O laptop da Acer tem 36.3cm de largura, 25.5cm de profundidade e 2.4cm de altura, pesando 2.3kg. O AN515-55-58UJ da Acer tem tela de 15.6\" e resolução Full HD. Este notebook da Acer possui um processador Intel Core i5 10300H de 10ª Geração e uma memória RAM de 8.0GB. No quesito armazenamento, o laptop Acer AN515-55-58UJ possui um HD de 1024GB. A placa gráfica GeForce GTX 1650 é usada neste notebook da Acer e é Dedicada (Off-Board), ou seja, indicada para jogos e programas de edição. Este notebook traz portas Ethernet (RJ-45), HDMI, USB 3.2, USB-C, Áudio. Para conexões sem fio, o Acer AN515-55-58UJ conta com Bluetooth, Wi-Fi (2.4 GHz e 5.0 GHz), Wi-Fi (6.0 GHz). </p></div>",
     "origin": "https://www.buscape.com.br/notebook/notebook-gamer-acer-nitro-5-an515-55-58uj-intel-core-i5-10210u-15-6-8gb-hd-1-tb-ssd-256-gb",
     "category": "notebooks",
     "price": 4399,
@@ -366,19 +301,14 @@
         "original": "https://i.zst.com.br/thumbs/12/0/3a/-539406619.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Notebook"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Notebook" }],
     "variations": []
   },
   {
     "id": 12,
     "name": "Smart TV LED 43 Samsung Crystal 4K HDR UN43AU7700GXZD",
     "slug": "smart-tv-led-43-samsung-crystal-4k-hdr-43au7700",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Smart TV LED 43\" Samsung Crystal 4K HDR UN43AU7700GXZD atualmente é R$ 2.049,99.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O Tizen foi o escolhido pela marca Samsung para a Smart TV LED 43\" Samsung Crystal 4K HDR UN43AU7700GXZD. Ela tem tela LED com resolução 4K de 43.0\". A taxa de atualização dessa TV Samsung UN43AU7700GXZD é de 60Hz. O áudio desta TV tem potência de 20W. Com Bluetooth, Espelhamento de Tela, Tecnologia DLNA, Wi-Fi integrado para conexão sem fio ela também conta com entradas HDMI, LAN (Rede), USB. </p></div>",
     "origin": "https://www.buscape.com.br/tv/smart-tv-led-43-samsung-crystal-4k-hdr-43au7700?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0Ad1JqSAqgtePogg-XxwObSQ9efN1fpRlfcly2Bjfw9OtIIKVTQPzfBoCUC8QAvD_BwE",
     "category": "tv-e-eletronicos",
     "price": 2199,
@@ -395,19 +325,14 @@
         "original": "https://i.zst.com.br/thumbs/12/10/16/1553974138.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Smart TV"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Smart TV" }],
     "variations": []
   },
   {
     "id": 13,
     "name": "Smart TV LED 50 LG ThinQ AI 4K HDR 50UP7750PSB",
     "slug": "smart-tv-led-50-lg-thinq-ai-4k-hdr-50up7750psb",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Smart TV LED 50\" LG ThinQ AI 4K HDR 50UP7750PSB atualmente é R$ 2.399,00.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">A Smart TV LED 50\" LG ThinQ AI 4K HDR 50UP7750PSB conta com WebOS e é um modelo da marca LG. Com 50.0\", essa é uma TV 4K com tela LED. Os 60Hz de frequência nativa desta TV são responsáveis pela fluidez do vídeo. O áudio desta TV tem potência de 20W. Para conexão com outros aparelhos, essa TV LG tem entradas HDMI 2.0, USB e, além delas, também conta com Bluetooth, Espelhamento de Tela, Wi-Fi integrado. </p></div>",
     "origin": "https://www.buscape.com.br/tv/smart-tv-led-50-lg-thinq-ai-4k-hdr-50up7750psb?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AWX7zKNLvqSISh3ahUTNA4aeYY2zxRKN8tVuqpaACU52f_RL25nBPRoC6SUQAvD_BwE",
     "category": "tv-e-eletronicos",
     "price": 2799,
@@ -424,19 +349,14 @@
         "original": "https://i.zst.com.br/thumbs/12/3d/12/1952750612.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Smart TV"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Smart TV" }],
     "variations": []
   },
   {
     "id": 14,
     "name": "Smart TV QLED 55 Samsung 4K HDR QN55Q70AAGXZD 4 HDMI",
     "slug": "smart-tv-qled-55-samsung-4k-hdr-55q70a-3-hdmi",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Smart TV QLED 55\" Samsung 4K HDR QN55Q70AAGXZD 4 HDMI atualmente é R$ 3.299,00.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">A Smart TV QLED 55\" Samsung 4K HDR QN55Q70AAGXZD 4 HDMI conta com Tizen e é um modelo da marca Samsung. As 55.0\" dessa TV 4K possui tecnologia QLED. A tela dessa TV tem frequência nativa de 120Hz. O som deste aparelho tem a potência de 20W. Esta TV Samsung funciona com Bluetooth, Espelhamento de Tela, Tecnologia DLNA, Wi-Fi integrado e também tem as entradas HDMI, LAN (Rede), USB, HDMI 2.0. </p></div>",
     "origin": "https://www.buscape.com.br/tv/smart-tv-qled-55-samsung-4k-hdr-55q70a-3-hdmi?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AdfMZdi7FAOXcmuXzLaCU4w7ZQyWB5JdTzU6WEyT7VpUdgfVXhHluhoCilkQAvD_BwE",
     "category": "tv-e-eletronicos",
     "price": 3649,
@@ -453,19 +373,14 @@
         "original": "https://i.zst.com.br/thumbs/12/19/2f/1549571522.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Smart TV"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Smart TV" }],
     "variations": []
   },
   {
     "id": 15,
     "name": "Smart TV LED 65 Samsung Crystal 4K HDR UN65AU7700GXZD",
     "slug": "smart-tv-led-65-samsung-crystal-4k-hdr-65au7700",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">A TV da marca Samsung traz o Tizen no modelo Smart TV LED 65\" Samsung Crystal 4K HDR UN65AU8000GXZD. Essa TV 4K tem tela LED e 65.0\". Os 60Hz de frequência nativa desta Samsung UN65AU8000GXZD são responsáveis pela fluidez de imagens. No quesito áudio, a TV tem potência de 20W. Para conexão com outros aparelhos, essa TV Samsung tem entradas HDMI, LAN (Rede), USB e, além delas, também conta com Bluetooth, Espelhamento de Tela, Tecnologia DLNA, Wi-Fi integrado. </p></div>",
     "origin": "https://www.buscape.com.br/tv/smart-tv-led-65-samsung-crystal-4k-hdr-65au8000?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AXhN86pNJMABPoiT05dOyrUvJLHc1HCqCBMuN4JLMuXfpNCqi2rcQxoCFb0QAvD_BwE",
     "category": "tv-e-eletronicos",
     "price": 3829,
@@ -482,19 +397,14 @@
         "original": "https://i.zst.com.br/thumbs/12/32/f/-52450406.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Smart TV"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Smart TV" }],
     "variations": []
   },
   {
     "id": 16,
     "name": "Console Playstation 5 825 GB Sony 4K",
     "slug": "console-playstation-5-sony",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Console Playstation 5 825 GB Sony 4K atualmente é R$ 4.049,91.</p></div>",
     "origin": "https://www.buscape.com.br/console-de-video-game/console-playstation-5-sony?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AYshyhybOfqHbs6lXY7TdebP8l8Ut-csf4ag-ousdDvVgDUjinaGuBoCaF8QAvD_BwE",
     "category": "games",
     "price": 4749,
@@ -511,19 +421,14 @@
         "original": "https://i.zst.com.br/thumbs/12/21/15/1116423324.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Console"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Console" }],
     "variations": []
   },
   {
     "id": 17,
     "name": "Console Portátil Switch 32 GB com Joy Con Nintendo",
     "slug": "console-nintendo-switch-32-gb",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Console Portátil Switch 32 GB com Joy Con Nintendo atualmente é R$ 2.049,00.</p></div>",
     "origin": "https://www.buscape.com.br/console-de-video-game/console-nintendo-switch-32-gb?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AfJnRxSiupcKu38azv0qBWHUK-JxkadJS0nkVndcijHfZoerrcz7EBoCvjsQAvD_BwE",
     "category": "games",
     "price": 2299,
@@ -540,19 +445,14 @@
         "original": "https://i.zst.com.br/thumbs/12/c/31/175144651.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Console"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Console" }],
     "variations": []
   },
   {
     "id": 18,
     "name": "Console Xbox Series X 1 TB Microsoft",
     "slug": "console-xbox-series-x-microsoft",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Console Xbox Series X 1 TB Microsoft atualmente é R$ 3.905,06.</p></div>",
     "origin": "https://www.buscape.com.br/console-de-video-game/console-xbox-series-x-microsoft?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AfMKPTCag5BqZnHusWua0nUbYNaAbbN1Y0KcqBX2m8jnedBucIdW7RoCmAgQAvD_BwE",
     "category": "games",
     "price": 4769.84,
@@ -569,19 +469,14 @@
         "original": "https://i.zst.com.br/thumbs/12/3d/d/1201030801.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Console"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Console" }],
     "variations": []
   },
   {
     "id": 19,
     "name": "Console Portátil Switch Lite 32 GB Nintendo",
     "slug": "console-portatil-switch-lite-32-gb-nintendo",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Console Portátil Switch Lite 32 GB Nintendo atualmente é R$ 1.399,99.</p></div>",
     "origin": "https://www.buscape.com.br/console-de-video-game/console-portatil-switch-lite-32-gb-nintendo?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AQ76bz-K0jAE9gRoInO28Lubiwl4OzbPCsXJC2VB6nKW-9BTSuoY0RoC_UgQAvD_BwE",
     "category": "games",
     "price": 1447,
@@ -598,19 +493,14 @@
         "original": "https://i.zst.com.br/thumbs/12/2/37/856986787.jpg"
       }
     ],
-    "tags": [
-      {
-        "id": 0,
-        "name": "Console"
-      }
-    ],
+    "tags": [{ "id": 0, "name": "Console" }],
     "variations": []
   },
   {
     "id": 20,
     "name": "Máquina De Waffle Britânia Golden 850W",
     "slug": "maquina-de-waffle-britania-golden-850w",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "none",
     "origin": "https://www.buscape.com.br/busca/golden+waffle+britania?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AZE5Av6QtfAO3Gr95yaxMjuIuwgKoobgqKqFmfoqS3ZQlNuyMPbCfBoCAFkQAvD_BwE",
     "category": "eletroportateis",
     "price": 149.9,
@@ -629,7 +519,7 @@
     "id": 21,
     "name": "Máquina Para Gaseificar Água Soda Stream Fizzi",
     "slug": "maquina-para-gaseificar-agua-soda-stream-fizzi",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "none",
     "origin": "https://www.buscape.com.br/busca/maquina+de+gaseificar+agua?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0Aay6jU22BFG44z00YILIiF3hTQJbqKIQvtrqqsTB7wjDU4LkvF5l2xoCglQQAvD_BwE",
     "category": "eletroportateis",
     "price": 688.49,
@@ -648,7 +538,7 @@
     "id": 22,
     "name": "Máquina de Waffle Cadence WAF100",
     "slug": "maquina-de-waffle-cadence-waf100",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "none",
     "origin": "https://www.buscape.com.br/busca/maquina+waffle+cadence",
     "category": "eletroportateis",
     "price": 119,
@@ -672,7 +562,7 @@
     "id": 23,
     "name": "Maquina Moer Moedor Triturador Elétrico Frango Carne Moída",
     "slug": "maquina-moer-moedor-triturador-eletrico-frango-carne-moida",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "none",
     "origin": "https://www.buscape.com.br/busca/maquina+de+moer+carne?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AQ81bt_B7CJJLrAI2Y_elGyqqGXL4mgYkKk00_hxc5z4Je_UXFnBmBoC-lUQAvD_BwE",
     "category": "eletroportateis",
     "price": 415.99,
@@ -691,7 +581,7 @@
     "id": 24,
     "name": "Geladeira Brastemp Ative! BRO80AK Frost Free French Door Inverse 540 Litros cor Inox",
     "slug": "geladeira-brastemp-540-litros-bro80ak",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Geladeira Brastemp Ative! BRO80AK Frost Free French Door Inverse 540 Litros cor Inox atualmente é R$ 6.934,05.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">A geladeira BRO80AK é um modelo Frost Free da Brastemp. Esse modelo tem 374.0l de capacidade no refrigerador e 166.0l na unidade congeladora, um total de 540.0l de capacidade total. As portas da Brastemp BRO80AK são French Door Inverse com acabamento cor Inox. Pesando 100.0kg, a BRO80AK tem 185.9cm x 82.9cm x 75.0cm em A x L x P. </p></div>",
     "origin": "https://www.buscape.com.br/geladeira/geladeira-brastemp-540-litros-bro80ak?resultorder=10&og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0Ae8QYbilaOIWzK-WRTTJwo3HJ1PzoSgyna8_rKnDZsr3MApF0qnt-xoC6AQQAvD_BwE",
     "category": "eletrodomesticos",
     "price": 6075.02,
@@ -715,10 +605,10 @@
     "id": 25,
     "name": "Lava e Seca LG 11kg Vivace VC4 CV5011TS4A",
     "slug": "lava-e-seca-lg-11kg-cv5011ts4a",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Lava e Seca LG 11kg Vivace VC4 CV5011TS4A atualmente é R$ 3.949,00.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">Quando falamos sobre Máquinas de Lavar da linha Vivace, a VC4 CV5011TS4A da LG é uma Lava e Seca que se destaca. Trazendo controle do tipo Eletromecânico, Painel Touch e 11.0kg de capacidade, a LG VC4 CV5011TS4A tem 14 programas de lavagem, abertura de tampa Frontal e conta com recursos como Controle de Níveis de Água, Pés reguláveis, Trava de Segurança e Ajustes de Temperatura, Controle por Smartphone, Display Digital, Sensor Inteligente, Tecnologia Inverter, Utilização de Água e Vapor, Compatível com Assistente Pessoal, Sensor de Carga, Água Quente. Centrifugando a 1400.0rpm, a LG VC4 CV5011TS4A também conta com Centrifugação, Enxágue, Lava Edredom, Lava Roupas Delicadas, Pré Lavagem, Secagem, Esterilização de roupa, Molho, Lava Roupas Básicas, Ciclo Rápido de Lavagem e dispenser para Sabão. Com Selo Procel A (Mais Econômico), essa Lava e Seca de 127V ou 220V consome 0.29kWh, mas não traz recursos ecológicos como eco lavagem e reaproveitamento da água. O gabinete da Lava e Seca possui acabamento em Aço escovado. Já o cesto é confeccionado em Aço Inox. A Lava e Seca da LG possui 85.0cm de altura, 60.0cm de largura e 56.5cm de profundidade. Já em relação ao peso, a máquina VC4 CV5011TS4A tem 73.0kg. </p></div>",
     "origin": "https://www.buscape.com.br/lavadora-roupas/lava-e-seca-lg-11kg-cv5011ts4a?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AWSCKADxmrsdO5CN9WOIY_YYq_dfwBgPtmZ8y_cIWIxfFXHvgEcuFxoC5_4QAvD_BwE",
     "category": "eletrodomesticos",
-    "price": 3790.80,
+    "price": 3790.8,
     "unit": "",
     "gallery": [
       {
@@ -739,7 +629,7 @@
     "id": 26,
     "name": "Geladeira Brastemp Ative! BRE80AK Frost Free Inverse 573 Litros cor Inox",
     "slug": "geladeira-brastemp-inverse-573-litros-inox-bre80ak",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Geladeira Brastemp Ative! BRE80AK Frost Free Inverse 573 Litros cor Inox atualmente é R$ 5.949,00.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">A BRE80AK, da Brastemp, é um modelo de geladeira que funciona com degelo Frost Free. Enquanto o refrigerador desse aparelho tem 394.0l de capacidade, a unidade congeladora conta com 179.0l. Juntos, os dois formam os 573.0l  de capacidade total. Suas portas Inverse têm acabamento cor Inox. As medidas dessa geladeira Brastemp são 188.0cm x 84.5cm x 75.0cm em A x L x P e ela pesa 108.0kg. </p></div>",
     "origin": "https://www.buscape.com.br/geladeira/geladeira-brastemp-inverse-573-litros-inox-bre80ak?og=18000&og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AUEmv1aMorLyGivUp6tSW981DAFb_cwzGjipHE_hXnyeBoirBS9X4BoC7A0QAvD_BwE",
     "category": "eletrodomesticos",
     "price": 4422.28,
@@ -763,7 +653,7 @@
     "id": 27,
     "name": "Geladeira Consul CRE44AK Frost Free Inverse 397 Litros cor Inox",
     "slug": "geladeira-consul-cre44ak-frost-free-inverse-397-litros-inox",
-    "description": "Lorem ipsum dolor sit amet",
+    "description": "<h3 class=\"Text_Text__bOTfK Text_MobileHeadingXs__KvPCw Text_DesktopHeadingXsAtLarge__c4_dH AttributeBlock_GroupTitle__0z1oE\">Descrição</h3><div class=\"AttributeBlock_GroupContent__nhYRo AttributeBlock_NoBorders__UgSGr\"><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">O menor preço encontrado no Brasil para Geladeira Consul CRE44AK Frost Free Inverse 397 Litros cor Inox atualmente é R$ 3.779,10.</p><p class=\"Text_Text__bOTfK Text_MobileLabelS__rf5R4\">A geladeira CRE44AK é um modelo Frost Free da Consul. Com 285.0l disponíveis no refrigerador e 112.0l no compartimento menor, essa geladeira tem 397.0l de capacidade no total. As portas da Consul CRE44AK são Inverse com acabamento cor Inox. Com 184.7cm de altura, 62.1cm de largura e 71.3cm de profundidade, essa geladeira pesa 69.7kg. </p></div>",
     "origin": "https://www.buscape.com.br/geladeira/geladeira-consul-cre44ak-frost-free-inverse-397-litros-inox?og=18000&gclid=CjwKCAjwmJeYBhAwEiwAXlg0AaYk6KwUA759t_oJoac-X8cV5fHplPn2_gzclSMA5WcorD1Y23cA_hoCFmIQAvD_BwE",
     "category": "eletrodomesticos",
     "price": 3342.24,
